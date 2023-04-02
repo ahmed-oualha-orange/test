@@ -33,7 +33,7 @@
         <lombok.version>1.18.12</lombok.version>
         <mapstruct.version>1.5.2.Final</mapstruct.version>
         <apache-commons.version>3.12.0</apache-commons.version>
-        <openapi-swagger.version>1.6.11</openapi-swagger.version>
+        <openapi-swagger.version>1.7.0</openapi-swagger.version>
     </properties>
 
     <dependencies>
